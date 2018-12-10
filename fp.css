@@ -1,0 +1,43 @@
+.container {
+margin-left: 20%;
+margin-right:20%;
+background-image: url("fotos/bg.png");
+background: auto; 
+
+}
+
+.img{
+    width: 30%;
+    height: 30%;
+    border: 5px;
+}
+.final{
+    width: 30%;
+    height: 30%;
+    border: 5px;
+}
+
+.row {
+    margin: 10px;
+}
+
+.column {
+    margin: 10px;
+}
+
+.modal {
+    position:fixed;
+    height: 100%;
+    width: 100%;
+    overflow:auto;
+    background-color:black 0.5;
+
+}
+
+.modal-content {
+    background-color:white;
+    marging:20% auto;
+    padding: 10px;
+    width:70%;
+
+}
